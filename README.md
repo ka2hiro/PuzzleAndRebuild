@@ -6,6 +6,6 @@ A plugin apllying gamification to the MT rebuild process.
 License
 =======
 
-[MIT] License
+[MIT](http://en.wikipedia.org/wiki/MIT_License) License
 
 
